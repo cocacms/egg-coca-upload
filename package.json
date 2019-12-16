@@ -1,0 +1,16 @@
+{
+  "name": "egg-coca-upload",
+  "version": "1.0.0",
+  "description": "coca 上传模块",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rojer95/egg-coca-upload.git"
+  },
+  "eggPlugin": {
+    "name": "cocaUpload",
+    "dependencies": []
+  },
+  "dependencies": {
+    "qiniu": "^7.2.2"
+  }
+}
